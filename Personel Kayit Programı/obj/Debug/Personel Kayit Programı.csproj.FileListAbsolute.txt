@@ -1,0 +1,10 @@
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\bin\Debug\Personel Kayit Programı.exe.config
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\bin\Debug\Personel Kayit Programı.exe
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\bin\Debug\Personel Kayit Programı.pdb
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\obj\Debug\Personel Kayit Programı.csprojAssemblyReference.cache
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\obj\Debug\Personel_Kayit_Programı.Form1.resources
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\obj\Debug\Personel_Kayit_Programı.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\obj\Debug\Personel Kayit Programı.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\obj\Debug\Personel Kayit Programı.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\obj\Debug\Personel Kayit Programı.exe
+C:\Users\MSI\OneDrive\Desktop\C# Denemeleri\Personel Kayit Programı\Personel Kayit Programı\obj\Debug\Personel Kayit Programı.pdb
